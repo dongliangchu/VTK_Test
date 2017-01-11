@@ -1,0 +1,3 @@
+/home/dongliang/MarchCube/build/CMakeFiles/edit_cache.dir
+/home/dongliang/MarchCube/build/CMakeFiles/rebuild_cache.dir
+/home/dongliang/MarchCube/build/CMakeFiles/MarchCubeDemo.dir
